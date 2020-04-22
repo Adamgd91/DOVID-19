@@ -1,7 +1,7 @@
 
 
-x = "Corona"
-print(x)
+title = "Corona"
+print(title)
 
 
 
